@@ -1,0 +1,24 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrivera0709/LIRI.git"
+  },
+  "author": "misaelRivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrivera0709/LIRI/issues"
+  },
+  "homepage": "https://github.com/mrivera0709/LIRI#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
